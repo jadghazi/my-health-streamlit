@@ -245,3 +245,4 @@ with st.expander(" Notes & Quick Insights (scatter)"):
         )
         st.markdown("- **Bubble size** reflects number of records; switch to Uniform choice for position-only comparison.")
         st.markdown("- Tighten the **chronic % range** to focus on outliers or consistent clusters.")
+        st.markdown("From this graph, we can see a slight negative trend — as total COVID-19 cases go up, the percentage of people with at least one chronic disease tends to go down. But the points are quite scattered, so the relationship is weak and not very strong")
